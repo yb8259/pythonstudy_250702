@@ -1,0 +1,7 @@
+git status
+git add .
+git status
+git commit -m "원하는 이름으로 올립니다 직관적으로"
+git push origin master
+
+데이터 업로드 완료
